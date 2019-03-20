@@ -1,3 +1,9 @@
+---
+title: "pq그리드 예제 ParamQuery Grid example"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
+---
+
 거래소 만들기 위해 공부해야하는것(실무)
 
 앵귤러,노드js,pq그리드,AJAX
