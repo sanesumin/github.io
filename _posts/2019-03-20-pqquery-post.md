@@ -13,3 +13,6 @@ pq그리드에 대해 공부한것을 적어보고자한다.
 https://paramquery.com/pro/tutorial
 일단 위 사이트에서 공부중..
 
+https://wizardry.liberty.me/how-to-build-a-bitcoin-exchange-part-1-design-goals-risk-management/
+
+https://smallake.kr/?p=25870
