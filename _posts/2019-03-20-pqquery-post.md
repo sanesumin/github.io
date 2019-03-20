@@ -16,3 +16,5 @@ https://paramquery.com/pro/tutorial
 https://wizardry.liberty.me/how-to-build-a-bitcoin-exchange-part-1-design-goals-risk-management/
 
 https://smallake.kr/?p=25870
+
+https://www.tradingview.com/widget/
