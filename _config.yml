@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "박주임"
+  name             : "주민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "장래희망 : 실력있는 개발자"
-  location         : "대한민국"
+  bio              : "기록하지 않으면 잊혀진다. 공부, 실무 내용"
+  #location         : "대한민국"
   email            :
   links:
     - label: "Email"
